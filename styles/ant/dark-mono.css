@@ -3736,3 +3736,15 @@ div.head.latest_topics {
   border: none !important;
   background-color: #1f1f1f;
 }
+
+.noty_message {
+  background-color: #313131 !important;
+}
+
+.noty_buttons {
+  background-color: #1f1f1f !important;
+}
+
+.noty_bar {
+  border-left: #8b8b8b 2px solid !important;
+}
