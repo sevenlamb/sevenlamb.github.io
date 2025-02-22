@@ -3748,3 +3748,7 @@ div.head.latest_topics {
 .noty_bar {
   border-left: #8b8b8b 2px solid !important;
 }
+
+#videoPlayer {
+  aspect-ratio: 16 / 9;
+}
