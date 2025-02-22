@@ -1909,12 +1909,12 @@ a.last_read > svg {
 
 .forum_index td.read_locked:before,
 .forum_index td.read_locked_sticky:before {
-  background-color: #20717c;
+  background-color: #555;
 }
 
 .forum_index td.unread_locked:before,
 .forum_index td.unread_locked_sticky:before {
-  background-color: #47b39a;
+  background-color: #dfdfdf;
 }
 
 .hide_torrents,
